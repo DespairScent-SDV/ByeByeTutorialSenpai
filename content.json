@@ -1,0 +1,56 @@
+{
+  "Format": "2.0",
+  "Changes": [
+    // Mouse (general)
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "assets/transparent-84x109.png",
+      "ToArea": {
+        "X": 275,
+        "Y": 0,
+        "Width": 84,
+        "Height": 109
+      }
+    },
+
+    // Mouse (fishing)
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "assets/transparent-48x69.png",
+      "ToArea": {
+        "X": 644,
+        "Y": 1330,
+        "Width": 48,
+        "Height": 69
+      }
+    },
+
+    // Gamepad (general)
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/ControllerMaps",
+      "FromFile": "assets/transparent-168x152.png",
+      "ToArea": {
+        "X": 512,
+        "Y": 0,
+        "Width": 168,
+        "Height": 152
+      }
+    },
+
+    // Gamepad (fishing)
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/ControllerMaps",
+      "FromFile": "assets/transparent-96x138.png",
+      "ToArea": {
+        "X": 681,
+        "Y": 0,
+        "Width": 96,
+        "Height": 138
+      }
+    }
+  ]
+}

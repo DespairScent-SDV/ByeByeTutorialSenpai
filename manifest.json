@@ -1,0 +1,11 @@
+{
+  "Name": "Bye-Bye Tutorial-Senpai",
+  "Author": "DespairScent",
+  "Version": "1.0.0",
+  "Description": "Hides the control and fishing tutorial overlays when starting a new farm",
+  "UniqueID": "DespairScent.NoNewGameTutorial",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "UpdateKeys": [ "Nexus:35709" ]
+}
